@@ -1,12 +1,12 @@
 # Project Status
 
-Local Business Platform is in active pre-release development. This page is a
+Small Business Suite by Limited Underground is in active pre-release development. This page is a
 plain-language public summary; it is not the private engineering plan or a
 production-readiness certification.
 
 ## Current public preview
 
-Version `0.3.0-preview.70` is available as an unsigned, self-contained Windows
+Version `0.3.0-preview.78` is available as an unsigned, self-contained Windows
 x64 seven-day public trial.
 
 The preview includes:
@@ -23,15 +23,11 @@ The preview includes:
   diagnostics
 - Twelve interface languages
 
-The exact preview.69-to-preview.70 lifecycle passed install, forced
-interruption rollback, `PublicTrial` identity verification, application launch,
-protected trial-state creation, uninstall, and business-data preservation. The
-full Release build completed with zero warnings and errors; localization,
-architecture, functional, and Windows trial checks passed.
-
-An isolated real upgrade also passed first-launch disclosure and dashboard
-visual review, confirmed a fresh seven-day period for preview.70, and verified
-that the full product name and readable release version no longer clip.
+The exact preview.77-to-preview.78 installer lifecycle passed interrupted-upgrade
+recovery, application launch, creation of a fresh version-scoped seven-day
+trial, uninstall cleanup, and business-data preservation. The full Release gate
+passed with zero warnings and errors across all 23 projects, all 12 interface
+languages, and the complete functional and Windows suites.
 
 ## Trial boundary
 

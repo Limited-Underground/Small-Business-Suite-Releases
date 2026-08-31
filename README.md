@@ -1,7 +1,7 @@
-# Local Business Platform — Public Releases
+# Small Business Suite by Limited Underground — Public Releases
 
 This repository is the official public information and download location for
-**Local Business Platform**, a local-first Windows application for small
+**Small Business Suite by Limited Underground**, a local-first Windows application for small
 businesses.
 
 > **Pre-release status:** The application is under active development and is
@@ -10,7 +10,7 @@ businesses.
 
 ## Start here
 
-- **[Download the seven-day public trial](https://github.com/nbjelanovic/LocalBusiness-Releases/releases/tag/v0.3.0-preview.70-public-trial)**
+- **[Download the seven-day public trial](https://github.com/Limited-Underground/Small-Business-Suite-Releases/releases/tag/v0.3.0-preview.78-public-trial)**
 - **[Public Trial Guide](PUBLIC-TRIAL-GUIDE.md)** — installation, checksum, trial, upgrade, expiration, and uninstall guidance
 - **[Project Status](PROJECT-STATUS.md)** — current capabilities and remaining production gates
 - **[Public Changelog](CHANGELOG.md)** — public-facing release history
@@ -18,7 +18,7 @@ businesses.
 
 ## Current seven-day public trial
 
-Version 0.3.0-preview.70 is an unsigned, self-contained Windows x64 installer.
+Version 0.3.0-preview.78 is an unsigned, self-contained Windows x64 installer.
 No separate .NET installation is required.
 
 - The seven continuous days begin when this exact version launches for the
@@ -42,15 +42,15 @@ preview is not digitally signed.
 
 Installer SHA-256:
 
-`2A9597E37283544E173807760DEE1F0CE35629574912810139478BAA1F24FF4C`
+`1EC6406BBE84320A7C018E2510898DCC3A59E4279014A5A4F63882BE3D4F305E`
 
 Download only from this repository's
-[Releases](https://github.com/nbjelanovic/LocalBusiness-Releases/releases)
+[Releases](https://github.com/Limited-Underground/Small-Business-Suite-Releases/releases)
 page and compare the installer to its published `.sha256.txt` sidecar.
 
 ## What the application is for
 
-Local Business Platform brings common daily workflows into one modular desktop
+Small Business Suite brings common daily workflows into one modular desktop
 application. A business can begin with only the modules it needs and enable
 additional modules later without deleting existing records.
 
@@ -106,5 +106,5 @@ contain application source code, private development history, internal
 architecture documents, private test data, signing material, or the build
 system.
 
-Local Business Platform is proprietary software. No open-source license is
+Small Business Suite is proprietary software. No open-source license is
 granted by this repository. Copyright © 2026. All rights reserved.

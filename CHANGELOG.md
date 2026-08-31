@@ -1,6 +1,6 @@
 # Public Changelog
 
-This file records public-facing Local Business Platform milestones. Detailed
+This file records public-facing Small Business Suite milestones. Detailed
 private engineering history and source-code changes remain in the private
 development repository.
 

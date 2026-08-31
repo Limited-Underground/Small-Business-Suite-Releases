@@ -1,6 +1,6 @@
 # Testing Partners
 
-Local Business Platform is looking for small-business owners, managers, and
+Small Business Suite by Limited Underground is looking for small-business owners, managers, and
 bookkeepers who can evaluate real daily workflows without exposing production
 business data.
 
@@ -39,5 +39,5 @@ application is approved for a regulated workflow.
 - A test build is not a production approval, compliance certification, or
   promise of ongoing support.
 
-Public download and tester-enrollment instructions will be added only after an
-exact package is approved for distribution.
+Public download instructions are available in the repository README. Formal
+tester enrollment remains subject to a separate owner-approved process.

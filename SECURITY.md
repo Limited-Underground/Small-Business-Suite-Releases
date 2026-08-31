@@ -2,8 +2,8 @@
 
 ## Current status
 
-Local Business Platform is pre-release software. No version is currently
-approved for production use, and no public binary has been published.
+Small Business Suite by Limited Underground is pre-release software. A public
+trial is available, but no version is currently approved for production use.
 
 ## Reporting a possible vulnerability
 
