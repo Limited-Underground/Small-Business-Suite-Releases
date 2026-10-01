@@ -1,8 +1,15 @@
 # Project Status
 
-Small Business Suite by Limited Underground is in active pre-release development. This page is a
+Limited Underground Business is in active pre-release development. This page is a
 plain-language public summary; it is not the private engineering plan or a
 production-readiness certification.
+
+## Free-use transition
+
+A Free distribution without subscription, activation key, or trial expiry is in
+validation. It has not been publicly released or approved for production use.
+The currently downloadable installer remains the historical trial described below.
+Final free-use/no-resale terms, independent testing, and owner release approval remain open.
 
 ## Current public preview
 
@@ -49,14 +56,14 @@ languages, and the complete functional and Windows suites.
 - Cloud synchronization, centralized multi-computer operation, Active
   Directory authentication, and external service integrations are future
   capabilities rather than current production claims.
-- Licensing and final commercial terms remain under review.
+- Final free-use/no-resale terms and support policies remain under review.
 
 ## What must happen before a production release
 
 - Complete independent tester acceptance on supported Windows environments
 - Finish usability and accessibility review with realistic populated data
 - Complete code signing and publisher-identity setup
-- Finalize licensing, support, update, privacy, and commercial policies
+- Finalize free-use/no-resale terms, support, update, and privacy policies
 - Complete legal and regulated-industry review for any claimed specialized
   business use
 - Complete final production acceptance
