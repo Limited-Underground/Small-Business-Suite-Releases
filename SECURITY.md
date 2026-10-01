@@ -2,14 +2,15 @@
 
 ## Current status
 
-Small Business Suite by Limited Underground is pre-release software. A public
+Limited Underground Business is pre-release software. A public
 trial is available, but no version is currently approved for production use.
 
 ## Reporting a possible vulnerability
 
-Use GitHub's private vulnerability-reporting feature for this repository. If
-that feature is unavailable, contact the repository owner through their GitHub
-profile without including sensitive technical details in the initial message.
+Use [GitHub private vulnerability reporting](https://github.com/Limited-Underground/Small-Business-Suite-Releases/security/advisories/new)
+for this repository. Do not submit sensitive reports through public issues.
+If private reporting is unavailable, wait for a private reporting route to be
+restored rather than publishing vulnerability details.
 
 Do **not** include any of the following in a public issue:
 
