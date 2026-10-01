@@ -1,6 +1,6 @@
 # Testing Partners
 
-Small Business Suite by Limited Underground is looking for small-business owners, managers, and
+Limited Underground Business is looking for small-business owners, managers, and
 bookkeepers who can evaluate real daily workflows without exposing production
 business data.
 
