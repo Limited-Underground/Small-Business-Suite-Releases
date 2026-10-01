@@ -23,7 +23,7 @@ trial and still expires; it must not be mistaken for the new Free build.
 - **[Public Trial Guide](PUBLIC-TRIAL-GUIDE.md)** — installation, checksum, trial, upgrade, expiration, and uninstall guidance
 - **[Project Status](PROJECT-STATUS.md)** — current capabilities and remaining production gates
 - **[Public Changelog](CHANGELOG.md)** — public-facing release history
-- **[Testing Partners](TESTING-PARTNERS.md)** — safe feedback boundaries
+- **[Feedback and bug reports](FEEDBACK.md)** — optional suggestions and safe reporting; no tester enrollment
 
 ## Current seven-day public trial
 
