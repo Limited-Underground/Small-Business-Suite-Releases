@@ -1,12 +1,21 @@
-# Small Business Suite by Limited Underground — Public Releases
+# Limited Underground Business™ — Public Releases
 
 This repository is the official public information and download location for
-**Small Business Suite by Limited Underground**, a local-first Windows application for small
+**Limited Underground Business**, a local-first Windows application for small
 businesses.
 
 > **Pre-release status:** The application is under active development and is
 > not approved for production business use. Use fictional or safely copied test
 > data and keep an independent backup.
+
+## Free-use transition
+
+Limited Underground Business is the working public identity, pending professional
+trademark clearance. Older installers and release notes retain their original names.
+The next distribution is being prepared for free use without a subscription or
+activation key; final terms and release acceptance remain pending. It is not yet
+available here. The downloadable preview below remains the historical seven-day
+trial and still expires; it must not be mistaken for the new Free build.
 
 ## Start here
 
@@ -50,7 +59,7 @@ page and compare the installer to its published `.sha256.txt` sidecar.
 
 ## What the application is for
 
-Small Business Suite brings common daily workflows into one modular desktop
+Limited Underground Business brings common daily workflows into one modular desktop
 application. A business can begin with only the modules it needs and enable
 additional modules later without deleting existing records.
 
@@ -106,5 +115,5 @@ contain application source code, private development history, internal
 architecture documents, private test data, signing material, or the build
 system.
 
-Small Business Suite is proprietary software. No open-source license is
+Limited Underground Business is proprietary software. No open-source license is
 granted by this repository. Copyright © 2026. All rights reserved.
