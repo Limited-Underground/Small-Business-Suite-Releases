@@ -9,7 +9,7 @@ production-readiness certification.
 A Free distribution without subscription, activation key, or trial expiry is in
 validation. It has not been publicly released or approved for production use.
 The currently downloadable installer remains the historical trial described below.
-Final free-use/no-resale terms, independent testing, and owner release approval remain open.
+Final free-use/no-resale terms, internal verification, and owner release approval remain open.
 
 ## Current public preview
 
@@ -52,7 +52,7 @@ languages, and the complete functional and Windows suites.
   unknown publisher.
 - The preview is not approved for production business records or regulated
   workflows.
-- Independent clean-machine and real-business acceptance are still required.
+- Internal installation, data-preservation, backup/restore, and usability checks remain required. No external tester program or real-business pilot is a launch prerequisite.
 - Cloud synchronization, centralized multi-computer operation, Active
   Directory authentication, and external service integrations are future
   capabilities rather than current production claims.
@@ -60,13 +60,19 @@ languages, and the complete functional and Windows suites.
 
 ## What must happen before a production release
 
-- Complete independent tester acceptance on supported Windows environments
+- Complete internal installation and workflow verification on supported Windows environments
 - Finish usability and accessibility review with realistic populated data
 - Complete code signing and publisher-identity setup
 - Finalize free-use/no-resale terms, support, update, and privacy policies
 - Complete legal and regulated-industry review for any claimed specialized
   business use
 - Complete final production acceptance
+
+## Voluntary feedback
+
+There is no formal tester program or enrollment process. External tester
+participation is not a launch prerequisite. [Feedback and bug reports](FEEDBACK.md)
+are voluntary; internal verification and owner release approval remain required.
 
 ## Public release policy
 
