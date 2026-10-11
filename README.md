@@ -1,119 +1,60 @@
 # Limited Underground Business™ — Public Releases
 
-This repository is the official public information and download location for
-**Limited Underground Business**, a local-first Windows application for small
-businesses.
+Free, local-first Windows software for small businesses. Version **1.0** is the
+first full public release, with no subscription, activation key, or trial expiry.
 
-> **Pre-release status:** The application is under active development and is
-> not approved for production business use. Use fictional or safely copied test
-> data and keep an independent backup.
+The software has undergone internal checks but has not yet been field-tested in
+real business environments. Issues may remain. Public feedback and continued
+testing by Limited Underground will guide fixes and improvements, with updated
+versions posted as they become available. No tester enrollment is required.
 
-## Free-use transition
+## Downloads
 
-Limited Underground Business is the working public identity, pending professional
-trademark clearance. Older installers and release notes retain their original names.
-The next distribution is being prepared for free use without a subscription or
-activation key; final terms and release acceptance remain pending. It is not yet
-available here. The downloadable preview below remains the historical seven-day
-trial and still expires; it must not be mistaken for the new Free build.
+- [Version 1.0 release and checksums](https://github.com/Limited-Underground/Small-Business-Suite-Releases/releases/tag/v1.0.0)
+- [Windows x64 installer](https://github.com/Limited-Underground/Small-Business-Suite-Releases/releases/download/v1.0.0/LocalBusiness-1.0.0-win-x64-Setup.exe)
+- [Windows x64 portable ZIP](https://github.com/Limited-Underground/Small-Business-Suite-Releases/releases/download/v1.0.0/LocalBusiness-1.0.0-win-x64.zip)
+- [Current capabilities and boundaries](PROJECT-STATUS.md)
+- [Feedback and bug reports](FEEDBACK.md)
+- [Security reporting](SECURITY.md)
 
-## Start here
+Both downloads are self-contained. The installer installs for the current Windows
+user; for portable use, extract the entire ZIP and run `Start Local Business.cmd`.
+This release is unsigned: Windows may show an unknown-publisher/protection warning.
+Verify the published SHA-256 sidecar before running any download. Do not bypass
+a warning for an unexpected or modified file. Keep an independent backup before
+upgrading and verify important workflows before relying on them for business data.
 
-- **[Download the seven-day public trial](https://github.com/Limited-Underground/Small-Business-Suite-Releases/releases/tag/v0.3.0-preview.78-public-trial)**
-- **[Public Trial Guide](PUBLIC-TRIAL-GUIDE.md)** — installation, checksum, trial, upgrade, expiration, and uninstall guidance
-- **[Project Status](PROJECT-STATUS.md)** — current capabilities and remaining production gates
-- **[Public Changelog](CHANGELOG.md)** — public-facing release history
-- **[Feedback and bug reports](FEEDBACK.md)** — optional suggestions and safe reporting; no tester enrollment
+## Included workflows
 
-## Current seven-day public trial
+Customers and leads; catalog and inventory; suppliers and purchasing; quotes,
+invoices, payments and expenses; point of sale and cash sessions; appointments,
+jobs, work orders and employee time; fleet/dispatch; reports, PDFs and dashboards;
+local users/permissions, activity history, backup/restore and open-data export.
+The first release is designed for one business on one Windows computer.
 
-Version 0.3.0-preview.78 is an unsigned, self-contained Windows x64 installer.
-No separate .NET installation is required.
+Includes English, Chinese, Czech, French, German, Hungarian, Italian, Romanian,
+Russian, Serbian (Latin), Spanish and Ukrainian interfaces. Localization and
+usability will continue to improve with ongoing testing and feedback.
 
-- The seven continuous days begin when this exact version launches for the
-  first time.
-- The application provides full feature access during the active trial.
-- Installing a newer application version starts a new seven-day trial for that
-  newer version.
-- Repairing, reinstalling, uninstalling and reinstalling, or returning to this
-  same version does not reset this version's trial.
-- Trial history and business data remain preserved through upgrade and
-  uninstall.
-- After expiration, normal application workflows are unavailable, but a
-  signed-in authorized user can still create a verified backup or open-data
-  export.
-- Nothing is uploaded automatically.
+## Data and distribution
 
-Windows may show an unknown-publisher or protection warning because this
-preview is not digitally signed.
+Business records remain local and belong to the business. Backups and exports
+are not automatically encrypted; store and transfer them securely. Do not post
+business records, credentials, databases, backups or sensitive reports publicly.
 
-### Verify the download
+The application is proprietary; first-party source is not published. Free use and
+free sharing of complete, unmodified installers are permitted; resale or charging
+for copies/access is not. Included third-party licenses and rights are preserved.
+See [FREE-USE-TERMS.txt](FREE-USE-TERMS.txt) and bundled notices. The report designer's EPPlus library
+includes its LGPL/GPL texts, source archive and replacement guidance; this does
+not expose the first-party application source.
 
-Installer SHA-256:
+Limited Underground Business is the working public identity pending professional
+trademark clearance; it is not represented as registered or legally cleared.
 
-`1EC6406BBE84320A7C018E2510898DCC3A59E4279014A5A4F63882BE3D4F305E`
+## Historical downloads
 
-Download only from this repository's
-[Releases](https://github.com/Limited-Underground/Small-Business-Suite-Releases/releases)
-page and compare the installer to its published `.sha256.txt` sidecar.
-
-## What the application is for
-
-Limited Underground Business brings common daily workflows into one modular desktop
-application. A business can begin with only the modules it needs and enable
-additional modules later without deleting existing records.
-
-Current areas include:
-
-- Customers and leads
-- Products, services, inventory, suppliers, and purchase orders
-- Quotes, estimates, invoices, payments, and expenses
-- Point of sale and cash-session workflows
-- Appointments, jobs, work orders, and employee time
-- Fleet and dispatch workflows for local and cross-country operations
-- Business reports, dashboards, PDF documents, and custom reporting
-- Local users, permissions, activity history, backup, recovery, and open-data
-  export
-
-Business templates help configure a practical starting set of modules for
-retail, online merchandise, food service, contractors, trucking, professional
-services, and other small-business types.
-
-## Product principles
-
-- Core business records remain available locally without an internet
-  connection.
-- The business owns its data and can create open-data exports.
-- Modules can be enabled as needed while retained data remains intact.
-- Financial, inventory, and audit history use traceable corrections instead
-  of silent destructive edits.
-- Backup, recovery, permissions, diagnostics, and accessibility are treated as
-  product features.
-- Future multi-computer, directory authentication, central-database, and
-  integration options are being designed without making them requirements for
-  local use.
-
-## Languages
-
-The application includes English, Chinese, Czech, French, German, Hungarian,
-Italian, Romanian, Russian, Serbian (Latin), Spanish, and Ukrainian interfaces.
-Localization remains part of ongoing preview validation.
-
-## Privacy and safety
-
-Use fictional records or a separately copied and sanitized dataset. Do not
-post customer information, employee records, credentials, payment data,
-databases, backups, reports, or sensitive screenshots in public GitHub pages.
-Review every export before sharing it.
-
-For security reporting guidance, see [Security](SECURITY.md).
-
-## Source code and ownership
-
-This is an **information and binary-release repository only**. It does not
-contain application source code, private development history, internal
-architecture documents, private test data, signing material, or the build
-system.
-
-Limited Underground Business is proprietary software. No open-source license is
-granted by this repository. Copyright © 2026. All rights reserved.
+Older names, release notes and trial assets are retained unchanged.
+[The historical .78 seven-day trial](https://github.com/Limited-Underground/Small-Business-Suite-Releases/releases/tag/v0.3.0-preview.78-public-trial)
+still has its original expiry. [Its guide](PUBLIC-TRIAL-GUIDE.md) applies only to
+historical trials, not the full Free 1.0 release.

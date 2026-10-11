@@ -1,5 +1,17 @@
 # Public Changelog
 
+## 1.0.0 - 2026-10-11
+
+- First full Free release, without activation, subscription or trial expiration.
+- Existing business workflows retained; reliability, invoice layout and package
+  notice corrections included. Optional Analysis Services and IIS administration
+  connectors are not bundled; ordinary local and starter reporting remain.
+- Internal build, reporting and exact-package lifecycle checks passed.
+- No real-business field testing yet. Public feedback and continued owner testing
+  will guide updates. Downloads are unsigned; checksums and terms accompany them.
+- Historical trial downloads, their limits and prior records remain unchanged.
+
+
 This file records public-facing Small Business Suite milestones. Detailed
 private engineering history and source-code changes remain in the private
 development repository.

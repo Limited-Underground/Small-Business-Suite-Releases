@@ -1,82 +1,40 @@
 # Project Status
 
-Limited Underground Business is in active pre-release development. This page is a
-plain-language public summary; it is not the private engineering plan or a
-production-readiness certification.
+Limited Underground Business™ 1.0 is the first full public Free release.
+Internal verification has been performed;
+real-business field testing has not. Public feedback and continued owner testing
+will inform subsequent fixes and improvements.
 
-## Free-use transition
+## Internal verification
 
-A Free distribution without subscription, activation key, or trial expiry is in
-validation. It has not been publicly released or approved for production use.
-The currently downloadable installer remains the historical trial described below.
-Final free-use/no-resale terms, internal verification, and owner release approval remain open.
+The 1.0 Release build passed with zero warnings/errors, functional and Windows
+checks, architecture checks and localization coverage for all twelve languages.
+Final package verification covers isolated fresh installation, expired/corrupt
+historical-trial upgrades, interrupted-upgrade rollback, portable launch,
+deployed-service business workflows and data-preserving uninstall.
 
-## Current public preview
+These checks do not establish clean-machine certification or exhaustive manual
+usability, accessibility, language/scaling or signed-in desktop acceptance.
+Keep independent backups and verify the workflows important to your business.
 
-Version `0.3.0-preview.78` is available as an unsigned, self-contained Windows
-x64 seven-day public trial.
+## Current boundaries
 
-The preview includes:
+- One business on one Windows computer, with local SQLite data.
+- No subscription, activation key or trial expiration.
+- Unsigned downloads; Windows may show an unknown-publisher warning.
+- Backups and exports are not automatically encrypted.
+- No claim of suitability or compliance for regulated or safety-critical work.
+- Cloud synchronization, centralized multi-computer operation and directory
+  authentication are future capabilities, not current release claims.
+- Advanced/custom reporting and remote report transfers have separate dependency,
+  trust, configuration and server-compatibility requirements; no live remote
+  transfer acceptance is claimed by local report checks.
+- Optional Analysis Services/MDX and IIS administration connectors are not bundled
+  in 1.0; the app's ordinary reporting and all 34 starter reports remain included.
 
-- Selectable business templates and optional modules
-- Local users, roles, permissions, inactivity locking, and activity history
-- Customers, leads, catalog, inventory, suppliers, and purchase orders
-- Quotes, estimates, invoices, payments, expenses, point of sale, jobs, work
-  orders, appointments, employee time, fleet, and dispatch workflows
-- Business documents and dashboards, including PDF output and a protected
-  custom-reporting foundation
-- Customer CSV/XLSX import with mapping and review before committing records
-- Verified backup, restore, local data export, and privacy-conscious support
-  diagnostics
-- Twelve interface languages
+## Updates and feedback
 
-The exact preview.77-to-preview.78 installer lifecycle passed interrupted-upgrade
-recovery, application launch, creation of a fresh version-scoped seven-day
-trial, uninstall cleanup, and business-data preservation. The full Release gate
-passed with zero warnings and errors across all 23 projects, all 12 interface
-languages, and the complete functional and Windows suites.
-
-## Trial boundary
-
-- The trial lasts seven continuous days from first launch for each exact
-  version.
-- A newer version receives a new seven-day period.
-- Reinstalling the same version does not reset that version's period.
-- Trial history and business data survive upgrade and uninstall.
-- After expiration, signed-in authorized users retain verified backup and
-  open-data export access; normal application workflows are unavailable.
-
-## Important current boundaries
-
-- The installer is unsigned, so Windows can identify it as coming from an
-  unknown publisher.
-- The preview is not approved for production business records or regulated
-  workflows.
-- Internal installation, data-preservation, backup/restore, and usability checks remain required. No external tester program or real-business pilot is a launch prerequisite.
-- Cloud synchronization, centralized multi-computer operation, Active
-  Directory authentication, and external service integrations are future
-  capabilities rather than current production claims.
-- Final free-use/no-resale terms and support policies remain under review.
-
-## What must happen before a production release
-
-- Complete internal installation and workflow verification on supported Windows environments
-- Finish usability and accessibility review with realistic populated data
-- Complete code signing and publisher-identity setup
-- Finalize free-use/no-resale terms, support, update, and privacy policies
-- Complete legal and regulated-industry review for any claimed specialized
-  business use
-- Complete final production acceptance
-
-## Voluntary feedback
-
-There is no formal tester program or enrollment process. External tester
-participation is not a launch prerequisite. [Feedback and bug reports](FEEDBACK.md)
-are voluntary; internal verification and owner release approval remain required.
-
-## Public release policy
-
-A source-code change is not automatically a public release. A version appears
-on this repository's Releases page only after the exact package is built,
-validated, reviewed for public distribution, and accompanied by its checksum
-and release notes.
+[Feedback and bug reports](FEEDBACK.md) are voluntary. There is no enrollment
+process or formal business-testing prerequisite. Releases will be posted as
+fixes and improvements become available; no response time or update schedule
+is guaranteed. Historical trials remain available with their original limits.

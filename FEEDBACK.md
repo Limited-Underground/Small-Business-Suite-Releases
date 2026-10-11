@@ -1,9 +1,12 @@
 # Feedback and bug reports
 
 Limited Underground Business welcomes voluntary bug reports and suggestions.
-There is no formal tester program, enrollment process, or requirement to provide
-feedback. External tester participation is not a prerequisite for release.
-Internal verification and the owner's release approval remain required.
+There is no tester enrollment or requirement to provide feedback.
+
+Version 1.0 is the first full Free public release. Internal checks have been
+performed, but real-business field testing has not. Public feedback and continued
+testing by Limited Underground will inform fixes and improvements, with updated
+versions posted as they become available.
 
 ## Send ordinary feedback
 
@@ -24,8 +27,7 @@ For a suspected security vulnerability, use
 [private vulnerability reporting](https://github.com/Limited-Underground/Small-Business-Suite-Releases/security/advisories/new),
 not a public issue. See [Security](SECURITY.md).
 
-## Download status
+## Downloads
 
-See the [README](README.md) for the currently published package and its limits.
-The Free distribution is not yet publicly released. The historical seven-day
-trial remains a trial; voluntary feedback does not change its expiration rules.
+See the [README](README.md) for version 1.0 downloads and checksums. Historical
+seven-day trial downloads retain their original limits and expiration rules.

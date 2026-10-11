@@ -1,35 +1,23 @@
 # Security Policy
 
-## Current status
+## Current version
 
-Limited Underground Business is pre-release software. A public
-trial is available, but no version is currently approved for production use.
+The current full public release is Limited Underground Business™ 1.0.0.
+Security corrections will be addressed through subsequent versions as available;
+no response-time commitment is made. Historical trials are not the current release.
 
-## Reporting a possible vulnerability
+## Report privately
 
-Use [GitHub private vulnerability reporting](https://github.com/Limited-Underground/Small-Business-Suite-Releases/security/advisories/new)
-for this repository. Do not submit sensitive reports through public issues.
-If private reporting is unavailable, wait for a private reporting route to be
-restored rather than publishing vulnerability details.
+Use [GitHub private vulnerability reporting](https://github.com/Limited-Underground/Small-Business-Suite-Releases/security/advisories/new).
+Do not submit sensitive vulnerability details through public issues. If private
+reporting is unavailable, wait for a private route rather than publishing details.
 
-Do **not** include any of the following in a public issue:
+Never post customer/employee/payment records, passwords, encryption material,
+private databases, backups, support bundles, reports or exploit details publicly.
+Use fictional records in an isolated environment when reproducing issues. Keep
+independent backups and review exports before sharing them.
 
-- Customer, employee, supplier, payment, or business records
-- Passwords, credentials, encryption material, recovery packages, or private
-  pairing information
-- Private database, backup, exchange, diagnostics, or support-bundle files
-- Exploit code or detailed reproduction steps that would expose users before
-  a correction is available
-- Private application binaries or source material
-
-## Supported versions
-
-There are currently no production-supported public versions. When a public
-preview is released, its release notes will state its exact support and
-security boundaries.
-
-## Safe testing
-
-Use fictional or safely copied test data in an isolated environment. Keep an
-independent backup and review every generated export before sharing it. A
-pre-release package should never be the only copy of important business data.
+Version 1.0 has internal verification but no real-business field testing yet.
+Local sign-in is not filesystem encryption. Ordinary backups and exports are
+not automatically encrypted. Follow-up updates will incorporate ongoing testing
+and reported problems; a full-release label is not a security certification.

@@ -1,0 +1,32 @@
+LIMITED UNDERGROUND BUSINESS — FREE-USE TERMS
+
+You may install and use this application without a fee, subscription,
+activation key, or time limit, including for your internal business activities.
+The application source remains private. Ownership is not transferred to you.
+
+You may share complete, unmodified installers for free, including their terms
+and notices. You may not resell the first-party application or charge for
+copies or access. Sharing does not authorize changes to the application or
+the use of Limited Underground branding to imply endorsement.
+
+Third-party components retain their own licenses and rights. These terms do
+not restrict rights granted by those licenses, including applicable library
+modification, replacement, source-access, and reverse-engineering rights.
+See the included notices and source materials for those components.
+The report designer uses EPPlus 4.5.3.3 under LGPL version 3. Its GNU GPL/LGPL
+texts, corresponding library source archive, and replacement instructions are
+in App/Tools/SealReport/Licenses/EPPlus (or Tools/SealReport/Licenses/EPPlus
+relative to the installed App folder). This is third-party library source,
+not the first-party application's source.
+
+Your business records remain yours. Maintain independent backups. Backups
+and exports can contain sensitive data and are not automatically encrypted.
+Local sign-in is not filesystem encryption.
+
+Version 1.0 has internal verification but has not yet been field-tested in
+real business environments. Issues may remain. Feedback and continued owner
+testing will inform updates; no response time or update schedule is promised.
+
+The software is provided as-is, without a guarantee of fitness for your
+particular workflow. Nothing in these terms excludes mandatory statutory
+rights or overrides separately licensed third-party components.
