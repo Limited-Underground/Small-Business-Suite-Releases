@@ -12,7 +12,7 @@
 - Historical trial downloads, their limits and prior records remain unchanged.
 
 
-This file records public-facing Small Business Suite milestones. Detailed
+This file records public-facing Limited Underground Business milestones. Detailed
 private engineering history and source-code changes remain in the private
 development repository.
 
